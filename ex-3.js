@@ -10,5 +10,7 @@ const employees = [
     hobbies: ["Cryptocurrency", "Social media"],
   },
 ];
+employees[1].hobbies = ["Cryptocurrency", "Social media","Watching basketball"]
+console.log(employees[1].hobbies)
 
 // Start coding here
